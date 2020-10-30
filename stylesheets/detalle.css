@@ -1,0 +1,15 @@
+.card-img-top {
+    width: 50%;
+    border-radius: 50%;
+}
+.card{
+    background-color: gray;
+  }
+
+.card-title{
+    color: white;
+    text-align: center;
+}
+.card-text{
+    color: white;
+}
