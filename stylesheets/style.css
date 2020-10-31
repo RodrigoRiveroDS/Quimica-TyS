@@ -556,17 +556,17 @@ background: linear-gradient(to right, #1D2671, #C33764); /* W3C, IE 10+/ Edge, F
      padding: 0; 
   }
 
-  #inicio 
+ /* #inicio 
   {
       height: 100vh;
-  }
+  }*/
 
   #inicio img
   {
       height: 100%;
-      /*object-fit: cover;
-      object-position: center;*/
-      width: 100%;
+      object-fit: cover;
+      object-position: center;
+      
 
   }
   #servicios .bloque-servicio
